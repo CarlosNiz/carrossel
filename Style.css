@@ -1,0 +1,46 @@
+header{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(#696969), to(#4F4F4F));;
+    text-align: center;
+}
+
+main{
+    position: fixed;
+    top: 10%;
+    left: 0%;
+    height: 80%;
+    width: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4F4F4F), to(#363636));;
+    text-align: center;
+}
+
+footer{
+    position: fixed;
+    top: 90%;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(#363636), to(#1C1C1C));;
+    text-align: center;
+}
+
+hr{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+.textheader{
+    margin-top: 20px;
+}
+
+.textrodape{
+    margin-top: -13px;
+}
+
